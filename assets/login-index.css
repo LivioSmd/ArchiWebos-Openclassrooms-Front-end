@@ -188,9 +188,9 @@ header {
     background: #000000;
     border-radius: 3px;
     padding: 3px;
-    position: relative;
-    bottom: 418px;
-    left: 127px;
+    position: fixed;
+    top: 238px;
+    left: 435px;
 }
 
 .titre-modal-page2 {
