@@ -22,7 +22,6 @@ function displayPortfolioPageEditeur (data) {
     for (let i of data) {
         createFigurePageEditeur (i.imageUrl, i.title)
     }
-
 }
 
 function fetchPortfolioPageEditeur () { 
